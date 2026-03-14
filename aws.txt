@@ -1,0 +1,13 @@
+aws ec2
+ebs
+s3
+efs
+fargate
+lambda
+ecs
+ecr
+eks
+sns
+iam 
+vpc
+route53
