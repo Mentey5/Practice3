@@ -1,0 +1,15 @@
+linux
+shell scripting
+docker
+kubernetes
+jenkins
+terraform
+ansible
+aws services
+apache maven
+python
+tomcat
+nginx
+nexus/jfrog artifactory
+Grafana
+Prometheus
